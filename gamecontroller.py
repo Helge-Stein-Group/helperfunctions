@@ -151,3 +151,6 @@ for i in range(10000):
     q = c.get()
     print(q)
     time.sleep(0.01)
+
+
+#Hallo, das war Leah!
